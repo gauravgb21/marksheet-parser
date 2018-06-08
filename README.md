@@ -33,3 +33,13 @@ Image folder will contain marksheet images referred by the "inputcsv.csv" file. 
 "outputcsv.csv" will contain the information of each student in the following format:
 
 Student ID , First Name , Last Name , Marksheet Image Name , Board Name
+
+## Running the file
+open command prompt 
+
+move to the directory where the "app.py" file is present
+
+type the following command:
+```
+python app.py
+```
