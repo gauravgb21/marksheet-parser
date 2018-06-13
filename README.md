@@ -28,7 +28,7 @@ Student data should be stored in the "inputcsv.csv" file in the following format
 Student ID , First Name , Last Name , Marksheet Image Name
 
 Image folder will contain marksheet images referred by the "inputcsv.csv" file. Images should be in black and white form with a minimum image resolution of 300dpi to get the best result.
-
+Images should be in jpg format.
 ## Output
 "outputcsv.csv" will contain the information of each student in the following format:
 
